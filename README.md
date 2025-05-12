@@ -32,26 +32,31 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![Screenshot 2025-03-28 193352](https://github.com/user-attachments/assets/08a3dce3-1de0-4f1e-b050-7c3569490edd)
+![428059440-08a3dce3-1de0-4f1e-b050-7c3569490edd](https://github.com/user-attachments/assets/5cf60c48-88f8-479a-a013-0db8ab7a5e0f)
+
 
 
 ## Truth Table for 1-Bit Full Adder
-![image](https://github.com/user-attachments/assets/328fae3c-b83a-4cd6-b394-54323dc59673)
+![428273018-328fae3c-b83a-4cd6-b394-54323dc59673](https://github.com/user-attachments/assets/c3c05076-e693-44af-8fcc-d3abb25c84d9)
+
 
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-![Screenshot 2025-04-11 142821](https://github.com/user-attachments/assets/f1ad2463-1f53-4cff-b844-1634ba94d46b)
+![432688639-f1ad2463-1f53-4cff-b844-1634ba94d46b](https://github.com/user-attachments/assets/a126bcb7-f4cb-424f-bb70-c519f0fb12ce)
 
-![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
+![428272930-1a962018-9d6b-4246-ab5f-424602551e87](https://github.com/user-attachments/assets/28beefa3-6dd2-4d8b-88a7-bacf77c8d9ba)
 
 
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
-![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
-![Screenshot 2025-04-11 142750](https://github.com/user-attachments/assets/308f0333-8d0e-4b4e-a6cd-41d857c3d8bf)
+![432688803-dc5a3489-8b68-427e-adb9-c71cee1367a4](https://github.com/user-attachments/assets/ac71e844-5f00-4af3-a3ea-d41efd711fc4)
+
+![432688803-dc5a3489-8b68-427e-adb9-c71cee1367a4](https://github.com/user-attachments/assets/1fe807e8-ec15-4ec6-bdae-c4f485b59e5e)
+
+![432688914-308f0333-8d0e-4b4e-a6cd-41d857c3d8bf](https://github.com/user-attachments/assets/cfd74212-f831-484b-b009-22f6256f5f07)
+
 
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
